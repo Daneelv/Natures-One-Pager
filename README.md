@@ -1,4 +1,4 @@
-# 🚀 DevSpace
+# 🚀 Natures
 
 > This is a one pager website built with HTML and CSS.
 
