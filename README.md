@@ -21,12 +21,6 @@ This Project was used to explore the capabilities of SASS.This is a basic one pa
 
 ---
 
-## ✨ Features
-
-- ✅ SASS framework
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend:** HTML, CSS, SASS  
@@ -39,11 +33,8 @@ This Project was used to explore the capabilities of SASS.This is a basic one pa
 
 ```bash
 # Clone the repo
-git clone
-
-# Install dependencies
-npm install
+git clone https://github.com/Daneelv/Natures-One-Pager.git
 
 # Run locally
-npm run dev
+run with live server on vs code
 ```
